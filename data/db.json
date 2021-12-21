@@ -1,0 +1,65 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Mac and Cheese",
+      "ingredients": [
+        "1lb Macaroni (Uncooked elbow pasta)",
+        "1tsp Salt",
+        "3/4 Heavy cream ",
+        "1 cup Grated Parmesan ",
+        "2 cups Cheddar cheese",
+        "4 cups Water"
+      ],
+      "method": "  1.  The pasta, water, and salt go into the Instant Pot. 2. Lock the lid and pressure cook for 3 minutes. 3. Quick release the steam so the macaroni noodles don’t overcook. 4. Open the lid and stir in the cheeses and heavy cream. 5.Eat up! (https://themodernproper.com/instant-pot-mac-and-cheese)",
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Veggie Pizza",
+      "ingredients": [
+        "1 Base",
+        "Tomata pasata",
+        "1 Green pepper",
+        "100g Mushrooms"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Greek Salad",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "method": "1. Make the dressing: In a small bowl, whisk together the olive oil, vinegar, garlic, oregano, mustard, salt, and several grinds of pepper. 2. On a large platter, arrange the cucumber, green pepper, cherry tomatoes, feta cheese, red onions, and olives. Drizzle with the dressing and very gently toss. Sprinkle with a few generous pinches of oregano and top with the mint leaves. Season to taste and serve.",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "title": "Mushroom Pie",
+      "ingredients": [
+        "Mushroom",
+        "carrots",
+        "eggs",
+        "flour"
+      ],
+      "method": "blah blah",
+      "cookingTime": "35 minutes",
+      "id": "TAobZpV"
+    },
+    {
+      "title": "Chicken Salad",
+      "ingredients": [
+        "chicken",
+        "meat"
+      ],
+      "method": "blah blah",
+      "cookingTime": "30 minutes",
+      "id": "GIOXl_F"
+    }
+  ]
+}
